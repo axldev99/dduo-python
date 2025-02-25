@@ -6,7 +6,7 @@ setup(name="duet",
       version="0.1",
       install_requires=[
         'numpy',
-        'sklearn',
+        'scikit-learn',
         'pandas',
         'diffprivlib',
         'scikit-learn',
